@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 
 # 💫 About Me:
-I'm currently working on building solid Android Development Skills and i'm also building a social app <br>I'm looking to calloborate in native android apps, frontend web apps and many more exciting projects<br>I'm looking for help in mastering Android Development<br>I'm currently Learning Android Development<br>Ask me about Java and Python<br>I love Coding, Java, Python, JavaScript and opensource
+I'm currently working as an Android Developer and A FrontEnd Developer <br>I'm looking to calloborate in native android apps, frontend web apps and many more exciting projects<br>I'm Trying to Get Into Backend Development<br>I'm currently Learning Android Development<br>Ask me about Java and Python<br>I love Coding, Java, Python, JavaScript and opensource
 
 
 ## 🌐 Socials:
